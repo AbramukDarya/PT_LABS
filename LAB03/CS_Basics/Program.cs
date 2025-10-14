@@ -10,7 +10,7 @@ namespace ConsoleAppTasks
 
             while (!exit)
             {
-                Console.Clear(); 
+                Console.Clear();
                 Console.WriteLine("=== Меню задач ===");
                 Console.WriteLine("1. Блок 1: Переменные и операторы");
                 Console.WriteLine("2. Блок 2: Условные операторы");
@@ -55,7 +55,6 @@ namespace ConsoleAppTasks
                 }
             }
         }
-
         static void Block1()
         {
             Console.Clear();
@@ -77,7 +76,7 @@ namespace ConsoleAppTasks
                     }
                     break;
                 case 2:
-                    const double USD_RATE = 3.25; 
+                    const double USD_RATE = 3.25;
                     Console.Write("Введите сумму в BYN: ");
                     if (double.TryParse(Console.ReadLine(), out double byn))
                     {
@@ -99,7 +98,6 @@ namespace ConsoleAppTasks
             Console.WriteLine("Нажмите любую клавишу...");
             Console.ReadKey();
         }
-
         static void Block2()
         {
             Console.Clear();
@@ -167,7 +165,6 @@ namespace ConsoleAppTasks
             Console.ReadKey();
         }
 
-
         static void Block3()
         {
             Console.Clear();
@@ -185,7 +182,7 @@ namespace ConsoleAppTasks
                     string numStr = Console.ReadLine();
                     if (long.TryParse(numStr, out long num))
                     {
-                        num = Math.Abs(num); 
+                        num = Math.Abs(num);
                         int min = 9, max = 0;
                         if (num == 0) min = max = 0;
                         while (num > 0)
@@ -238,8 +235,6 @@ namespace ConsoleAppTasks
             Console.WriteLine("Нажмите любую клавишу...");
             Console.ReadKey();
         }
-
-
         static void Block4()
         {
             Console.Clear();
@@ -265,19 +260,19 @@ namespace ConsoleAppTasks
                         for (int j = 0; j < cols; j++)
                             matrix[i, j] = rand.Next(1, 101);
 
-                
+
                     int[] rowSums = new int[rows];
                     for (int i = 0; i < rows; i++)
                         for (int j = 0; j < cols; j++)
                             rowSums[i] += matrix[i, j];
 
-                  
+
                     int[] colSums = new int[cols];
                     for (int j = 0; j < cols; j++)
                         for (int i = 0; i < rows; i++)
                             colSums[j] += matrix[i, j];
 
-               
+
                     for (int i = 0; i < rows; i++)
                     {
                         for (int j = 0; j < cols; j++)
@@ -290,7 +285,7 @@ namespace ConsoleAppTasks
                         Console.Write(colSums[j].ToString().PadLeft(4));
                     Console.WriteLine();
 
-     
+
                     int minRow = 0, maxRow = 0, minCol = 0, maxCol = 0;
                     for (int i = 1; i < rows; i++)
                     {
@@ -318,7 +313,7 @@ namespace ConsoleAppTasks
 
                     Console.WriteLine("Исходный массив: " + string.Join(", ", arr));
 
-     
+
                     for (int i = 0; i < size / 2; i++)
                     {
                         int temp = arr[i];
@@ -338,7 +333,7 @@ namespace ConsoleAppTasks
 
                     Console.WriteLine("Исходный массив: " + string.Join(", ", nums));
 
-                
+
                     int posCount = 0, negCount = 0;
                     foreach (int x in nums)
                     {
@@ -416,8 +411,18 @@ namespace ConsoleAppTasks
 
         static long Factorial(int n)
         {
-            if (n == 0 || n == 1) return 1;
-            return n * Factorial(n - 1);
+            if (n < 0)
+            {
+                Console.WriteLine("Факториал не определён для отрицательных чисел.");
+                return -1; 
+            }
+
+            long result = 1;
+            for (int i = 1; i <= n; i++)
+            {
+                result = result * i;
+            }
+            return result;
         }
 
         static int Sum(int[] array, int index)
@@ -448,3 +453,5 @@ namespace ConsoleAppTasks
         }
     }
 }
+    
+
