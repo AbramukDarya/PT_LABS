@@ -24,10 +24,6 @@ class Program
         Console.WriteLine($"eq4 при x=10: {eq4.Calculate(10)}"); 
 
 
-
-
-
-
         try 
         {
             eq3.A = double.NaN;

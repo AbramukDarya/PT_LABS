@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB7B139-EBD5-489B-807C-F3025E45570B}|CS_Static\\CS_Static.csproj|d:\\repos\\pt_labs\\lab05\\cs_static\\cs_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB7B139-EBD5-489B-807C-F3025E45570B}|CS_Static\\CS_Static.csproj|solutionrelative:cs_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB7B139-EBD5-489B-807C-F3025E45570B}|CS_Static\\CS_Static.csproj|d:\\repos\\pt_labs\\lab05\\cs_static\\cs_static\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB7B139-EBD5-489B-807C-F3025E45570B}|CS_Static\\CS_Static.csproj|solutionrelative:cs_static\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\Box.cs",
+              "RelativeDocumentMoniker": "CS_Static\\Box.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\Box.cs",
+              "RelativeToolTip": "CS_Static\\Box.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA7wFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:06:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Static\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB05\\CS_Static\\CS_Static\\Program.cs*",
+              "RelativeToolTip": "CS_Static\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:05:52.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
