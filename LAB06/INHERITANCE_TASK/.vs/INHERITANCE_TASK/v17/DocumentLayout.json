@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task\\inheritance_task\\trigonometricfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\trigonometricfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task\\inheritance_task\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task\\inheritance_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task\\inheritance_task\\powerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\powerfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task\\inheritance_task\\linearfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\linearfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|d:\\repos\\pt_labs\\lab06\\inheritance_task\\inheritance_task\\logarithmicfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523C62DE-7051-4564-BBE2-2687784DFCDC}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\logarithmicfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinearFunction.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\LinearFunction.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\LinearFunction.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\LinearFunction.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\LinearFunction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:41:28.317Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrigonometricFunction.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\TrigonometricFunction.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\TrigonometricFunction.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\TrigonometricFunction.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\TrigonometricFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:13:07.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PowerFunction.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\PowerFunction.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\PowerFunction.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\PowerFunction.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\PowerFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:55:12.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogarithmicFunction.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\LogarithmicFunction.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\LogarithmicFunction.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\LogarithmicFunction.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\LogarithmicFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:43:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\Function.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\Function.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\Function.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\Function.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:40:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\Program.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB06\\INHERITANCE_TASK\\INHERITANCE_TASK\\Program.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:35:55.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
